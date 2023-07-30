@@ -1,0 +1,28 @@
+@media screen and (max-width:425px) {
+    .majorContainer{
+        flex-direction: column;
+        overflow: scroll;
+        width: 100%;
+        margin-top: 0;
+        
+        
+    }
+    .card1,.card2{
+        width: 100%;
+       
+
+
+    }
+    .card1{
+         margin-bottom: 10px;
+    }
+    body{
+        width: 100%;
+        align-items: flex-start;
+        margin: 0;
+        padding: 0;
+    
+        
+    }
+    
+}
